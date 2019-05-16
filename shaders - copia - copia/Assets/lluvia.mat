@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: lluvia
+  m_Shader: {fileID: 4800000, guid: eafc3439f643bbb44b3ddf6f5af294ab, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_663162E6:
+        m_Texture: {fileID: 2800000, guid: 31414456345d55f449af3bc3337769a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D433A75:
+        m_Texture: {fileID: 2800000, guid: af9c51bd54084a64d9a15cf3c27fbf62, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DA2882CD:
+        m_Texture: {fileID: 2800000, guid: 1d2871db11763544c8fc5fedde86aaa2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2D5BAA8D: 1
+    - Vector1_43115900: 16
+    - Vector1_AC1BDA5C: 4
+    - Vector1_B45A74C9: 1
+    - Vector1_DF686B98: 0.729
+    - Vector1_EC2A7A44: 3
+    m_Colors:
+    - Color_D5663028: {r: 0.6320754, g: 0.605242, b: 0.605242, a: 0}
