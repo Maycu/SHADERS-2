@@ -1,3 +1,3 @@
 # SHADERS-2
 
-DFSXDSX
+en shaders copia copia están los de sahder graph 
